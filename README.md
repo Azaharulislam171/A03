@@ -1,5 +1,4 @@
 # A03
-# A03
 <h1>How to use Git, Webstorm and Github:</h1>
 <ol>
   <li> Use the following links to download git, webstorm and github.<br>
@@ -14,7 +13,8 @@ Github: https://desktop.github.com/ or you can use the online account if you pre
    <li> Create a Repository: Create a new repository by clicking the + sign on the upper right corner. Make it public and add the readme file option. </li>
    <li> Create a repository from webstorm: In Webstorm click VCS located on the ribbon and choose enable version control integration. Select Git for the root option.
   </li>
-   <li> </li>
+   <li> Add project to Github:Click VCS->Share project on Github and then click share.The file will be shared to your github account repository.
+  </li>
   </ol>
  
 
