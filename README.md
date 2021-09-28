@@ -5,13 +5,16 @@
 <u> Download links: </u> 
 Git: https://git-scm.com/downloads <br>
 Webstorm: https://www.jetbrains.com/webstorm/download <br>
-Github: https://desktop.github.com/ or you can use the online account if you prefer to do so.
-  </li>
+Create a github account online:
+Github: https://www.github.com
+    
   <li> Connect Github to webstorm: In webstorm go to settings by pressing (Strl+Alt+S) and navigate to system prefences.Then click on Version control which will show a drop down list. Cick git and change the path from git.bin to git.exe .
   </li>
    <li>check it </li>
    <li> Create a Repository: Create a new repository by clicking the + sign on the upper right corner. Make it public and add the readme file option. </li>
    <li> Create a repository from webstorm: In Webstorm click VCS located on the ribbon and choose enable version control integration. Select Git for the root option.
+  </li>
+  <li>Commit files: Click VCS->Git->Commit file. For the first commit ever a dialog box will open, set the github username and email address. Add some comment and then commit.
   </li>
    <li> Add project to Github:Click VCS->Share project on Github and then click share.The file will be shared to your github account repository.
   </li>
