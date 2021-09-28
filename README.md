@@ -42,10 +42,10 @@ Github: https://www.github.com
   </h1>
   GitHub (2021) GitHub  glossary. Retrieved  September 28, 2021 from 
   https://docs.github.com/en/get-started/quickstart/github-glossary
-  <br>
+  <br><br>
   Git(2021) gitglossary Documentation. Retrieved September 28, 2021 from
   https://git-scm.com/docs/gitglossary
-  <br>
+  <br><br>
   HubSpot Careers(2021) An Intro to Git and GitHub for Beginners (Tutorial).Retrieved 
 September 28, 2021 from  https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
   
